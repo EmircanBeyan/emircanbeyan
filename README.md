@@ -14,4 +14,3 @@
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emircanbeyan&show_icons=true&locale=en" alt="emircanbeyan" /></p>
 <hr>
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emircanbeyan&" alt="emircanbeyan" /></p>
