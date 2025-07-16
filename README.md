@@ -1,6 +1,6 @@
 ![MasterHead](https://yusufbulbul.com/wp-content/uploads/2020/05/software_shutterstock_1290773869.jpg)
 <h1 align="center">Hi 👋, I'm Emircan BEYAN</h1>
-<h3 align="center">Ben kendi halinde yazılım geliştiren bir backend devolepperim C#,MVC Teknolojilerini kullanarak yazılımlar yapmaktayım.</h3>
+<h3 align="center">Ben kendi halinde yazılım geliştiren bir backend devoleperim C#,MVC Teknolojilerini kullanarak yazılımlar yapmaktayım.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
