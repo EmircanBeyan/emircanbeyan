@@ -1,4 +1,4 @@
-![MasterHead]()
+
 <h1 align="center">Hi 👋, I'm Emircan BEYAN</h1>
 <h3 align="center">Ben kendi halinde yazılım geliştiren bir backend devoleperim C#,MVC Teknolojilerini kullanarak yazılımlar yapmaktayım.</h3>
 
