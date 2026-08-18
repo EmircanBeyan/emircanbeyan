@@ -1,4 +1,4 @@
-![MasterHead](https://img.magnific.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5572.jpg)
+![MasterHead](https://images.pexels.com/photos/31343630/pexels-photo-31343630/free-photo-of-colorful-javascript-code-on-monitor-screen.jpeg?cs=tinysrgb&dpr=1&w=500)
 <h1 align="center">Hi 👋, I'm Emircan BEYAN</h1>
 <h3 align="center">Ben kendi halinde yazılım geliştiren bir backend devoleperim C#,MVC Teknolojilerini kullanarak yazılımlar yapmaktayım.</h3>
 
